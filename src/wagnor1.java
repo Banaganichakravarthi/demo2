@@ -1,0 +1,4 @@
+
+public record wagnor1() {
+
+}
